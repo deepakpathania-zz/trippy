@@ -1,2 +1,2 @@
-# trippy
+# Trippy
 Trippy helps users find the ideal destination based on the available time and their mood by chatting with it and filtering responses through chat messages. The user can also click any picture and send it to the bot from which text is extracted and then translated to the desired language so that they never get lost. Plus nobody wants to watch those long travel guides, right? We allow users to upload videos and we then convert the speech into text, feed that text to our summarizer and give them a short summary of the entire video along with sentiment analysis of the summary. The user can also reach out to nearby resources by calling them directly while also allowing them to tweet about their experiences directly from the bot.
